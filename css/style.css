@@ -1,0 +1,27 @@
+* {
+    background-color: grey;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+h1,
+h2,
+h3 {
+    background-color: black;
+    color: white;
+}
+
+p {
+    background-color: blueviolet;
+    color: white;
+    font-size: 25px;
+}
+
+li {
+    color: aqua;
+    font-size: 20px;
+}
